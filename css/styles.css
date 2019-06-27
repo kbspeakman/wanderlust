@@ -54,13 +54,13 @@ body {
 }
 
 .banner-text {
-    background-color:47A1E0;
+    /* background-color:#47A1E0; */
     height: 100px;
     width: 400px;
     color: #630E0E;
     position: absolute;
     top: 375px;
-    left: 30%;
+    left: 27%;
     text-align: Left;
     display: inline-block;
     margin-top: 20px;
@@ -278,7 +278,7 @@ h2{
     position: absolute;
     top: 0px;
     height: 700px;
-    opacity: 0.6;
+    opacity: 0.60;
     background-color: black;
     margin-bottom: 30px;
 }
